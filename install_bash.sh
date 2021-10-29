@@ -11,6 +11,3 @@ cp ${HOME}/.bash_profile ${HOME}/.bash_profile.org
 # cp dotfiles
 cp ${INSTALL_PATH}/.bashrc ${HOME}/
 cp ${INSTALL_PATH}/.bash_profile ${HOME}/
-
-# refresh
-source ~/.bash_profile
